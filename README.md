@@ -15,6 +15,10 @@
 
 - 📄 Know about my experiences [https://lalitmahato.com.np/files/LALIT_MAHATO_CV.pdf](https://lalitmahato.com.np/files/LALIT_MAHATO_CV.pdf)
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/lalitmahato/lalitmahato/output/snake.svg" alt="Snake animation" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lalit-mahato-9ba4331a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalit-mahato-9ba4331a8" height="30" width="40" /></a>
