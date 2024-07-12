@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Lalit Mahato</h1> -->
 <p align="justify">Innovative and results-driven software developer with 3+ years of experience in designing, developing, and deploying high-quality software solutions. Proficient in various programming languages and technologies, with a keen interest in staying updated with the latest advancements in the field. Adept at collaborating with cross-functional teams to deliver projects on time and within budget. Known for exceptional problem-solving skills and a passion for creating efficient, scalable, and maintainable code. Strong communicator with a proven track record of translating complex technical concepts into user-friendly solutions.</p> 
 
-<img align="right" akt="Coding" width="300" src="https://raw.githubusercontent.com/lalitmahato/lalitmahato/output/coding1.gif"/>
+<img align="right" akt="Coding" width="300" src="https://raw.githubusercontent.com/lalitmahato/lalitmahato/files/coding1.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitmahato&label=Profile%20views&color=0e75b6&style=flat" alt="lalitmahato" /> </p>
 
