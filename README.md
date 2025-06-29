@@ -1,7 +1,7 @@
 [![MasterHead](https://lalitmahato.com.np/media/lalitmahato_banner.png)](https://lalitmahato.com.np)
 
 <!-- <h1 align="center">Hi 👋, I'm Lalit Mahato</h1> -->
-<p align="justify">Innovative and results-driven software developer with 3+ years of experience in designing, developing, and deploying high-quality software solutions. Proficient in various programming languages and technologies, with a keen interest in staying updated with the latest advancements in the field. Adept at collaborating with cross-functional teams to deliver projects on time and within budget. Known for exceptional problem-solving skills and a passion for creating efficient, scalable, and maintainable code. Strong communicator with a proven track record of translating complex technical concepts into user-friendly solutions.</p> 
+<p align="justify">Innovative and results-driven software developer with 4+ years of experience in designing, developing, and deploying high-quality software solutions. Proficient in various programming languages and technologies, with a keen interest in staying updated with the latest advancements in the field. Adept at collaborating with cross-functional teams to deliver projects on time and within budget. Known for exceptional problem-solving skills and a passion for creating efficient, scalable, and maintainable code. Strong communicator with a proven track record of translating complex technical concepts into user-friendly solutions.</p> 
 
 <img align="right" akt="Coding" width="300" src="https://raw.githubusercontent.com/lalitmahato/lalitmahato/files/coding1.gif"/>
 
